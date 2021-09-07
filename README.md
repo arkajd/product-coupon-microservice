@@ -2,6 +2,7 @@
 Applies coupon to a product being purchased online
 
 To complete the operation, follow the below steps
+
 (1) create 2 tables product and coupon in your choice of databse (this project uses Mysql)
 
 (2) please add some coupons to your coupon database table by making a POST call to http://localhost:9091/api/coupons. Below is the JSON body to be sent
